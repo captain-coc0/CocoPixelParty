@@ -5,3 +5,4 @@ Flask-SocketIO==5.5.1
 numpy==2.2.6
 types-circuitpython==8.1.0
 Werkzeug==3.1.8
+gunicorn==25.3.0
